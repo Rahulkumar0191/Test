@@ -6,7 +6,7 @@
   <packaging>war</packaging>
   <version>1.0.1-SNAPSHOT</version>
   <name>Maven_test Maven Webapp</name>
-  <url>http://demo.com</url>
+  <url>http://demo.info</url>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
