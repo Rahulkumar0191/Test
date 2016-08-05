@@ -12,7 +12,7 @@
 			
 				<div id="logo">
 					<h1>
-						Payment Billing System deployment by Tested again in Mar2016
+						Payment Billing System in loacl
 					</h1>
 				</div>	
 		</div>
