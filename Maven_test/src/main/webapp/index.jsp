@@ -12,7 +12,7 @@
 			
 				<div id="logo">
 					<h1>
-						Payment Billing System in loacl
+						Payment Billing System in local
 					</h1>
 				</div>	
 		</div>
