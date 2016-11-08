@@ -1,12 +1,1 @@
-<<<<<<< HEAD
-new filnmczxcnlzxncnzxc
-sdfdsf
-dsfne
-=======
-cnklnckzxnkcnkzxncnzxncksdsklds
-cvvxkvcxnnnew file
-cnzklxncnzc
-zxczxczx
-cxvxcvvx
-
->>>>>>> 3aae0dca517563ea5a5e925709ef8cfc05b92769
+new file
