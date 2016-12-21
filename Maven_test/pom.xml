@@ -4,7 +4,7 @@
   <groupId>com</groupId>
   <artifactId>yahoo</artifactId>
   <packaging>war</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   <name>Maven_test</name>
   <url>http://demo.info</url>
   <dependencies>
